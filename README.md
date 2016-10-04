@@ -5,8 +5,7 @@ With Camp는 기존 심사에 대한 부담을 벗어나 그냥 누군가와 함
 팀 or 개인 자유롭게 기획, 디자인, 발표에 대한 부담 없이 치킨과 맥주를 먹으며 오직 코딩만을 위한 해커톤 행사입니다.
 <br>
 <br>
-주제는 단 하나<br>
-**`Library`**<br>
+## 주제 :: Library
 평소에 개발하다가 라이브러리로 만들어 보고싶었던것 등<br>
 어떤 무엇이든 하나 만들어서 라이브러리로 배포 해보는 해커톤 입니다.
 <br>
@@ -35,3 +34,7 @@ With Camp는 기존 심사에 대한 부담을 벗어나 그냥 누군가와 함
 ## 참가신청서
 **모집 기간** : 2016.10.06 (금) ~ 2016.10.16 (일)<br>
 신청하기 >> [https://goo.gl/forms/MHJUbZ9CYXx9e3bF3](https://goo.gl/forms/MHJUbZ9CYXx9e3bF3)
+<br>
+<br>
+<br>
+**Q&A** 궁금한 점은 aud1220a@gmail.gmail 또는 slack id moka 로 DM 주세요
